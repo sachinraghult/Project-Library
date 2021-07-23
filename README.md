@@ -1,2 +1,2 @@
 # Project-Library
-Library Management for Librarian and the student to ease the service.
+A terminal for Library Management for the Librarian and the student to ease the service. The Librarian can add new books and their details and can keep track of the students who bought those books.
